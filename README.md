@@ -5,4 +5,13 @@ Python notebooks following the examples from [Hands-On Machine Learning with Sci
 ## Table of contents
 [Chapter 10: Introduction to Artifical Nueral Networks with Keras](./chp10/)
 
+## Develop
+Running `jupyter notebook`
+```sh
+jupyter notebook
+```
 
+Running `tensorboard`
+```sh
+tensorboard --logdir=./logs --port=6006
+```
